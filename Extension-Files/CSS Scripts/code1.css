@@ -1,0 +1,70 @@
+body{background-color:#121212!important; background: url('chrome-extension://__MSG_@@extension_id__/images/bg-m2.jpeg') 100% 0 no-repeat !important; background-size: 100% 100% !important}
+#navigation div.sticky_wrapper div.pageContent div.navTabs{background: } /*Navigation bar reminder to insert dark colour code.*/
+#header{background:transparent !important}
+div.baseHtml.excerptContent{color:#959595!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent{background-color:transparent!important;color:#959595!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent .messageUserBlock .avatarHolder{background-color:#111!important; border-radius: 0px !important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .sectionFooter{background-color:#111!important}
+.navTabs{background-color:transparent!important}
+.navTabs:hover{background-color:transparent!important}
+.menuHeader{background-color:#1a1a1a!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:link{color:#FFF!important;text-decoration:none!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:visited{color:#FFF!important;text-decoration:none!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:
+er{color:#fbfbfb!important;text-decoration:underline!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:active{color:#fbfbfb!important;text-decoration:none!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading{background-color:#111!important}
+.button.primary{color:#626162!important}
+.button{border:0!important}
+.button a:link{color:#959595!important;background-color:#151515!important}
+.button a:visited{color:#959595!important;background-color:#151515!important}
+.button a:active{color:#959595!important;background-color:#151515!important}
+.button a:hover{color:#959595!important;background-color:#151515!important}
+.button{background-color:#141414!important}
+#content>.titleBar{background-color:#111!important;color:#FFF!important}
+div.messageInfo{color:#959595!important;border-color:#1a1a1a!important}
+div.uix_message{background-color:#1a1a1a!important}
+.messageUserBlock div.avatarHolder{background-color:#131313!important; border-radius: 0px !important}
+.messageUserBlock h3.userText{background-color:#121212!important;border-radius:0!important}
+.messageUserBlock .extraUserInfo{background-color:#121212!important;border-radius:0!important}
+.messageUserBlockToggle{background-color:transparent!important;border:1px solid transparent!important}
+.messageUserBlock .userBanner{border-color:#1a1a1a!important;background-color:transparent!important}
+.userBanner.bannerPrimary.wrapped span{background-color:#121212!important}
+.messageList .message{background:#121212!important}
+.mcPlayerMessage{background-color:#131313!important}
+.message .dark_postrating.likesSummary,.dark_postrating{background-color:rgba(0,0,0,0.25)!important;border-color:rgba(0,0,0,0.25)!important}
+.message .messageMeta .control{border:rgba(0,0,0,0.25)!important}
+.message .messageMeta .uix_postbit_privateControlsMenu{border:rgba(0,0,0,0.25)!important}
+.PageNav a{background-color:#1a1a1a!important;color:#959595!important;border:#1a1a1a!important}
+div.pageNavLinkGroup{background:#1a1a1a!important}
+.mainContainer .mainContent,.mainContainer_noSidebar{background-color:#121212!important}
+div.discussionList.section.sectionMain{background-color:rgba(44,44,44,0.87);border:rgba(44,44,44,0.87)}
+dl.sectionHeaders{background-color:#111!important}
+li.heading.sticky{background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png)}
+.discussionList .discussionListItem.sticky{background-color:rgba(0,0,0,0.25)!important;border-color:rgba(0,0,0,0.25)!important}
+li.heading{background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png);background-color:rgba(0,0,0,0.25)!important}
+.discussionListItem{background-color:rgba(0,0,0,0.25)!important;border-bottom:1px solid rgba(0,0,0,0.25)!important}
+div.listBlock.posterAvatar{background-color:rgba(0,0,0,0.05)!important}
+.discussionListItem .stats dl{border-right:1px solid rgba(0,0,0,0.5)!important;border-left:1px solid rgba(0,0,0,0.5)!important}
+.discussionListItem .posterAvatar,.discussionListItem .stats{background-color:rgba(0,0,0,0.05)!important}
+div.attribution.type{background-color:#1a1a1a;color:#959595;border-left:0}
+.bbCodeQuote .quoteContainer{background-color:rgba(44,44,44,0.87)!important;border-left:0 solid!important}
+.bbCodeBlock{border:0!important}
+.Menu .sectionFooter{background-color:#1a1a1a!important;color:#959595!important;border-top:.5px solid #1a1a1a!important;border-bottom:#1a1a1a !important}
+.Menu .primaryContent{background-color:#1a1a1a!important;color:#959595!important}
+.Menu .secondaryContent{background-color:#1a1a1a!important;color:#959595!important}
+.html{background-color:#1a1a1a!important}
+.blockLinksList{background-color:#1a1a1a!important;border-color:#1a1a1a!important}
+.blockLinksList label{border-color:#1a1a1a!important}
+div.tabLinks.articlesTabLinks{background-color:rgba(0,0,0,.015)!important}
+#AccountMenu .statusPoster textarea{background-color:rgba(0,0,0,.015)}
+div.tabLinks.forumsTabLinks{background-color:#14141494!important}
+div.quickReply.message.sectionMain{background-color:#141414!important}
+#content .quickReply .messageUserBlock div.avatarHolder{background-color:#131313!important}
+.redactor_toolbar{background-color:rgba(0,0,0,.2)!important;border-bottom:1px solid rgba(0,0,0,.2)!important}
+.redactor_toolbar li a{border:1px solid rgba(0,0,0,.2)!important}
+.nodeList .categoryStrip{background-color:rgba(17,17,17,0.68)!important;color:#959595!important;border-bottom:#202020!important}
+.nodeList .categoryStrip .nodeTitle a{color:#959595!important}
+ol.nodeList{background-color:rgba(17,17,17,0.68)!important; border: 1px solid #131313 !important}
+#content div.pageNavLinkGroup{background:#191919!important}
+#content dl.threadAlerts.secondaryContent{background:#080c0e!important}
