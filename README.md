@@ -1,6 +1,5 @@
-# Arkham-Dark-Theme
-The repository for the changelog of the ADT Chrome extension.
+Website holding the details to Arkham Dark Theme, and useful links.
 
-Extension URL: https://chrome.google.com/webstore/detail/arkham-dark-theme/naojgmnbokfikkbkhkfoakecmhbjlnge
+<a href="https://chrome.google.com/webstore/detail/arkham-dark-theme/naojgmnbokfikkbkhkfoakecmhbjlnge">Chrome Extension Download</a>
 
-Thread URL: http://arkhamnetwork.org/community/threads/adt-arkham-dark-theme.64974/
+<a href="http://arkhamnetwork.org/community/threads/adt-arkham-dark-theme.64974/">ADT Thread</a>
